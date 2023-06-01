@@ -6,8 +6,7 @@
         });
 
 
-        
-  
+    
         
  const pathCoordinates = [
         { lat: 30.01835, lng: -95.48234 },
