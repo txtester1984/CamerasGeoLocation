@@ -1,0 +1,16 @@
+      #map {
+        height: 95vh;
+        width: 100%;
+      }
+.hide{
+  opacity:0;
+}
+ .trd-font {
+    position: absolute;
+    top: 12%;
+    left: 35px;
+    z-index: 3;
+    height: 75vh;
+    max-height: 746px;
+   transition: opacity ease 1s;
+}
